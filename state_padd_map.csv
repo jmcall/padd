@@ -1,57 +1,57 @@
-﻿State,PADD,PADD_SUB
-Connecticut,PADD 1,PADD 1A
-Maine,PADD 1,PADD 1A
-Massachusetts,PADD 1,PADD 1A
-New Hampshire,PADD 1,PADD 1A
-Rhode Island,PADD 1,PADD 1A
-Vermont,PADD 1,PADD 1A
-Delaware,PADD 1,PADD 1B
-District of Columbia,PADD 1,PADD 1B
-Maryland,PADD 1,PADD 1B
-New Jersey,PADD 1,PADD 1B
-New York,PADD 1,PADD 1B
-Pennsylvania,PADD 1,PADD 1B
-Florida,PADD 1,PADD 1C
-Georgia,PADD 1,PADD 1C
-North Carolina,PADD 1,PADD 1C
-South Carolina,PADD 1,PADD 1C
-Virginia,PADD 1,PADD 1C
-West Virginia,PADD 1,PADD 1C
-Illinois,PADD 2,PADD 2
-Indiana,PADD 2,PADD 2
-Iowa,PADD 2,PADD 2
-Kansas,PADD 2,PADD 2
-Kentucky,PADD 2,PADD 2
-Michigan,PADD 2,PADD 2
-Minnesota,PADD 2,PADD 2
-Missouri,PADD 2,PADD 2
-Nebraska,PADD 2,PADD 2
-North Dakota,PADD 2,PADD 2
-Ohio,PADD 2,PADD 2
-Oklahoma,PADD 2,PADD 2
-South Dakota,PADD 2,PADD 2
-Tennessee,PADD 2,PADD 2
-Wisconsin,PADD 2,PADD 2
-Alabama,PADD 3,PADD 3
-Arkansas,PADD 3,PADD 3
-Louisiana,PADD 3,PADD 3
-Mississippi,PADD 3,PADD 3
-New Mexico,PADD 3,PADD 3
-Texas,PADD 3,PADD 3
-Colorado,PADD 4,PADD 4
-Idaho,PADD 4,PADD 4
-Montana,PADD 4,PADD 4
-Utah,PADD 4,PADD 4
-Wyoming,PADD 4,PADD 4
-Alaska,PADD 5,PADD 5
-Arizona,PADD 5,PADD 5
-California,PADD 5,PADD 5
-Hawaii,PADD 5,PADD 5
-Nevada,PADD 5,PADD 5
-Oregon,PADD 5,PADD 5
-Washington,PADD 5,PADD 5
-U.S. Virgin Islands,PADD 6,PADD 6
-Puerto Rico,PADD 6,PADD 6
-Guam,PADD 7,PADD 7
-American Samoa,PADD 7,PADD 7
-Northern Mariana Islands Territory,PADD 7,PADD 7
+﻿STATE,STATE_ABB,PADD,PADD_SUB
+Connecticut,CT,PADD 1,PADD 1A
+Maine,ME,PADD 1,PADD 1A
+Massachusetts,MA,PADD 1,PADD 1A
+New Hampshire,NH,PADD 1,PADD 1A
+Rhode Island,RI,PADD 1,PADD 1A
+Vermont,VT,PADD 1,PADD 1A
+Delaware,DE,PADD 1,PADD 1B
+District of Columbia,DC,PADD 1,PADD 1B
+Maryland,MD,PADD 1,PADD 1B
+New Jersey,NJ,PADD 1,PADD 1B
+New York,NY,PADD 1,PADD 1B
+Pennsylvania,PA,PADD 1,PADD 1B
+Florida,FL,PADD 1,PADD 1C
+Georgia,GA,PADD 1,PADD 1C
+North Carolina,NC,PADD 1,PADD 1C
+South Carolina,SC,PADD 1,PADD 1C
+Virginia,VA,PADD 1,PADD 1C
+West Virginia,WV,PADD 1,PADD 1C
+Illinois,IL,PADD 2,PADD 2
+Indiana,IN,PADD 2,PADD 2
+Iowa,IA,PADD 2,PADD 2
+Kansas,KS,PADD 2,PADD 2
+Kentucky,KY,PADD 2,PADD 2
+Michigan,MI,PADD 2,PADD 2
+Minnesota,MN,PADD 2,PADD 2
+Missouri,MO,PADD 2,PADD 2
+Nebraska,NE,PADD 2,PADD 2
+North Dakota,ND,PADD 2,PADD 2
+Ohio,OH,PADD 2,PADD 2
+Oklahoma,OK,PADD 2,PADD 2
+South Dakota,SD,PADD 2,PADD 2
+Tennessee,TN,PADD 2,PADD 2
+Wisconsin,WI,PADD 2,PADD 2
+Alabama,AL,PADD 3,PADD 3
+Arkansas,AK,PADD 3,PADD 3
+Louisiana,LA,PADD 3,PADD 3
+Mississippi,MS,PADD 3,PADD 3
+New Mexico,NM,PADD 3,PADD 3
+Texas,TX,PADD 3,PADD 3
+Colorado,CO,PADD 4,PADD 4
+Idaho,ID,PADD 4,PADD 4
+Montana,MT,PADD 4,PADD 4
+Utah,UT,PADD 4,PADD 4
+Wyoming,WY,PADD 4,PADD 4
+Alaska,AK,PADD 5,PADD 5
+Arizona,AZ,PADD 5,PADD 5
+California,CA,PADD 5,PADD 5
+Hawaii,HI,PADD 5,PADD 5
+Nevada,NV,PADD 5,PADD 5
+Oregon,OR,PADD 5,PADD 5
+Washington,WA,PADD 5,PADD 5
+U.S. Virgin Islands,VI,PADD 6,PADD 6
+Puerto Rico,PR,PADD 6,PADD 6
+Guam,GU,PADD 7,PADD 7
+American Samoa,AS,PADD 7,PADD 7
+Northern Mariana Islands Territory,MP,PADD 7,PADD 7
